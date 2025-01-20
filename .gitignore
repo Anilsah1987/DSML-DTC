@@ -1,0 +1,6 @@
+.idae
+.venv
+data
+**/__pycache__/
+
+
